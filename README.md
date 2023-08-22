@@ -1,13 +1,13 @@
 # Practica1_TS1_2023
 
-Objetivo General:
+<h3>Objetivo General:</h3>
 
-Implementar un sistema para el registro de notas para cada estudiante utilizando una plataforma.
+- Implementar un sistema para el registro de notas para cada estudiante utilizando una plataforma.
 
-Objetivos especificos:
+<h3>Objetivos especificos:</h3>
 
-1.- Creacion del modelo y la base de datos en MySQL.
-2.- Implementación de las funciones básicas de una aplicación web (CRUD).
-3.- Diseño e implementación de los formularios necesarios para realizar operaciones sobre la información almacenada en la base de datos.
-4.- Conexión con PHP, HTML5, javascript y CSS3.
+- Creacion del modelo y la base de datos en MySQL.
+- Implementación de las funciones básicas de una aplicación web (CRUD).
+- Diseño e implementación de los formularios necesarios para realizar operaciones sobre la información almacenada en la base de datos.
+- Conexión con PHP, HTML5, javascript y CSS3.
 
