@@ -11,3 +11,16 @@
 - Diseño e implementación de los formularios necesarios para realizar operaciones sobre la información almacenada en la base de datos.
 - Conexión con PHP, HTML5, javascript y CSS3.
 
+<h2>Marco Teorico</h2>
+<p align="justify">La informática es una rama de los campos que se ocupan de procesamiento digital de información,
+<p align="justify">El marco teórico consiste en los siguientes temas: </br></br>- Modelo Ent
+idad Relacional.</br>- Lenguaje SQL.</br>- Sistema gestor de bases de datos.</br>- Programación orientada a
+objetos.</br>- Servidor Web.</br>- Aplicaciones web.</br>- Diseño de interfaces gráficas.</br>- Mane
+jo de
+archivos.</br>- Desarrollo de aplicaciones multiplataforma.</br>- Bases de Datos relacionales.</br>-
+Estructura
+de
+tablas.</br>- Integrantes del grupo.</br>- Repositorio GitHub.</br>- Documentación Técnica.</br><a href=
+https://github.com/JoseCage/Practica1_TS1_2023>Repositorio GitHub</a>.</p
+>
+<img src="./images/diagrama.png" width = "648px"/>
