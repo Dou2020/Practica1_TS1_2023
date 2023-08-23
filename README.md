@@ -1,8 +1,12 @@
 # Practica1_TS1_2023
 
+- [Marco Teórico](#marco-teórico)
+- [Manual Técnico](#manual-técnico)
+- [Manual Usuario](#manual-de-usuario)
+
 <h3>Objetivo General:</h3>
 
-- Implementar un sistema para el registro de notas para cada estudiante utilizando una plataforma.
+- Implementar un sistema para el registro de notas para cada estudiante utilizando una plataforma web.
 
 <h3>Objetivos especificos:</h3>
 
@@ -11,7 +15,7 @@
 - [x] Diseño e implementación de los formularios necesarios para realizar operaciones sobre la información almacenada en la base de datos.
 - [x] Conexión con PHP, HTML5, javascript y CSS3.
 
-<h2>Marco Teorico</h2>
+## Marco Teórico
 <p align="justify">La informática es una rama de los campos que se ocupan de procesamiento digital de información.
 <p align="justify">
 <b> El marco teórico consiste en los siguientes: </b>
@@ -93,6 +97,31 @@ Una tabla en base de datos es un tipo de modelado de datos donde se guarda una i
 
 ![Diagrama de Paquete](https://github.com/Dou2020/Practica1_TS1_2023/blob/main/imagenes/Diagrama_Paquete.png)
  
- ## Manual de Uusario
+ ## Manual de Usuario
 
  ### Inicio Sesión:
+ En este caso La aplicación esta en producción y esta inicializado en mi computador
+ , y se integro en apache donde esta alojado en el **localhost(127.0.0.1)** donde me va a redireccionar a *login.php*
+ , esta parte es necesario ingresar las credenciales puede se de **estudiante** o **profesor** que son *carnet* y *contraseña(password)*
+![Inicio de Sesion](./imagenes/InicioSesion.png) 
+
+### Rol de Profesor
+En esta interfaz se visualiza las opciones de:
++ Inicio = regresa a sus valores de Profesor.
++ Cerrar = elimina las credenciales y regresa a login.
++ Registrar Alumno = permite registrar alumnos nuevos, solo puede hacerlo si tiene permisos.
++ Listado = todos los usuarios.
+![Interfaz Profesor](./imagenes/RolProfesor.png)
+
+#### Búsqueda de usuario
+Esta opción ingresa el nombre del estudiante y filtrará todos los user.
+![Busqueda](./imagenes/BusquedaProfesor.png)
+
+### Rol de Estudiante
+En esta interfaz se visualiza las opciones de:
++ Inicio = regresa a sus valores de Estudiante.
++ Cerrar = elimina las credenciales y regresa a Login.
++ listado = todos los datos de sus tareas.
+![Interfaz Estudiante](./imagenes/RolEstudiante.png)
+
+
