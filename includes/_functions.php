@@ -23,6 +23,7 @@ if (isset($_POST['accion'])){
 	}
 
     function editar_registro() {
+        
 		$conexion=mysqli_connect($config['db']['host'],$config['db']['user'],$config['db']['pass'],$config['db']['name']);
 		extract($_POST);
 		$consulta="UPDATE user SET nombre = '$nombre', correo = '$correo', telefono = '$telefono',

@@ -86,15 +86,16 @@ Una tabla en base de datos es un tipo de modelado de datos donde se guarda una i
 ## Manual Técnico
 
 ### Diagrama de Actividades
+Diagramas de actividades, son considerados diagramas de comportamiento porque describen lo que debe suceder en el sistema que se está modelando.
 
 ![Diagrama de Actividades](./imagenes/Diagrama_Actividades.png)
 
 ### Diagrama de Componente
-
+Los diagramas de componentes UML representan las relaciones entre los componentes individuales del sistema mediante una vista de diseño estática. Pueden ilustrar aspectos de modelado lógico y físico.
 ![Diagrama de Componente](./imagenes/Diagrama_Componente.png)
 
 ### Diagrama de Paquete
-
+Los diagramas de paquetes son diagramas estructurales que se emplean para mostrar la organización y disposición de diversos elementos de un modelo en forma de paquetes.
 ![Diagrama de Paquete](https://github.com/Dou2020/Practica1_TS1_2023/blob/main/imagenes/Diagrama_Paquete.png)
  
  ## Manual de Usuario
@@ -116,6 +117,10 @@ En esta interfaz se visualiza las opciones de:
 #### Búsqueda de usuario
 Esta opción ingresa el nombre del estudiante y filtrará todos los user.
 ![Busqueda](./imagenes/BusquedaProfesor.png)
+
+#### Registro de User
+Registrar un nuevo usuario.
+![Registro](./imagenes/RegistroUser.png)
 
 ### Rol de Estudiante
 En esta interfaz se visualiza las opciones de:

@@ -24,7 +24,7 @@ if( $validar == null || $validar = ''){
 }
 ?>
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="es-MX">
 <head>
     <meta charset="UTF-8">
