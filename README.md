@@ -17,12 +17,12 @@
 El marco teórico consiste en los siguientes: 
 </br>
 </br>
-- Modelo Entidad Relacional.
+- <h3>Modelo Entidad Relacional.</h3>
 </br>
 
 - Lenguaje SQL.
 </br>
-- Sistema gestor de bases de datos.
+- <h3>Sistema gestor de bases de datos. </h3>
 </br>
 A los Sistemas Lógicos de Gestion de Datos o Sistemas de gestión de información es un campo que se encarga de administrar todos aquellos procesos necesarios
 de Datos o Sistemas Lógicos de Bases de Datos son conjuntos matemático-lógicos que
@@ -31,7 +31,7 @@ Los sistemas lógicos de bases de datos se caracterizan por ser flexibles e inde
 En este sentido, se pueden definir tres tipos principales de bases de datos relacionales: Relacional, NoSQL e Híbrid
 Los sistemas lógicos de bases de datos se caracterizan por tener una gran cantidad de tablas relacionadas entre sí.
 </br>
-- Programación orientada a objetos.
+- <h3> Programación orientada a objetos. </h3>
 </br>
 Podemos entender la programación Orientada a objetos (POO) como una forma especial de programar, más cercana a como expresaríamos las cosas en la vida real que otros tipos de programación, que permite diseñar mejor las aplicaciones, llegando a mayores cotas de complejidad, sin que el código se vuelva inmanejable.
 Al programar orientado a objetos tenemos que aprender a pensar cómo resolver los problemas de una manera distinta a como se realizaba anteriormente, en la programación estructurada. Ahora tendremos que escribir nuestros programas en términos de clases, objetos, propiedades, métodos y otras cosas que veremos rápidamente para aclarar conceptos y dar una pequeña base que permita soltarnos un poco con los conceptos de este tipo de programación.
