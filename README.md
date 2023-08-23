@@ -92,12 +92,22 @@ Diagramas de actividades, son considerados diagramas de comportamiento porque de
 
 ### Diagrama de Componente
 Los diagramas de componentes UML representan las relaciones entre los componentes individuales del sistema mediante una vista de diseño estática. Pueden ilustrar aspectos de modelado lógico y físico.
+
 ![Diagrama de Componente](./imagenes/Diagrama_Componente.png)
 
 ### Diagrama de Paquete
 Los diagramas de paquetes son diagramas estructurales que se emplean para mostrar la organización y disposición de diversos elementos de un modelo en forma de paquetes.
+
 ![Diagrama de Paquete](https://github.com/Dou2020/Practica1_TS1_2023/blob/main/imagenes/Diagrama_Paquete.png)
  
+ ### Diagrama de Entidad Relación
+ Las entidades son:
+ + Profesor
+ + Estudiante
+ + Nota
+ + Curso 
+ ![Diagrama de entidad relacion](./imagenes/Diagrama_ER.png)
+
  ## Manual de Usuario
 
  ### Inicio Sesión:
