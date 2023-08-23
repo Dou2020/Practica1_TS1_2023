@@ -17,15 +17,12 @@
 <b> El marco teórico consiste en los siguientes: </b>
 </br>
 <h3>Modelo Entidad Relacional.</h3>
-</br>
 Los diagramas entidad-relación o el modelo entidad relación son un tipo de diagrama de flujo que posee entidades, atributos y relaciones. Estos elementos son indispensables en el ERD y su función es representarlos gráficamente y diseñar un modelo conceptual que permita señalar cómo los diferentes elementos se relacionan entre sí.
 </br>
 <h3> Lenguaje SQL. </h3>
-</br>
 El lenguaje de consulta estructurada (SQL) es un lenguaje de consulta popular que se usa con frecuencia en todos los tipos de aplicaciones. Los analistas y desarrolladores de datos aprenden y usan SQL porque se integra bien con los diferentes lenguajes de programación. Por ejemplo, pueden incrustar consultas SQL con el lenguaje de programación Java para crear aplicaciones de procesamiento de datos de alto rendimiento con los principales sistemas de bases de datos SQL, como Oracle o MS SQL Server. Además, SQL es muy fácil de aprender, ya que en sus instrucciones se utilizan palabras clave comunes en inglés.
 </br>
 <h3>Sistema gestor de bases de datos. </h3>
-</br>
 A los Sistemas Lógicos de Gestion de Datos o Sistemas de gestión de información es un campo que se encarga de administrar todos aquellos procesos necesarios
 de Datos o Sistemas Lógicos de Bases de Datos son conjuntos matemático-lógicos que
 permiten representar información como objetos y relaciones entre dichos objetos.
@@ -34,29 +31,24 @@ En este sentido, se pueden definir tres tipos principales de bases de datos rela
 Los sistemas lógicos de bases de datos se caracterizan por tener una gran cantidad de tablas relacionadas entre sí.
 </br>
 <h3> Programación orientada a objetos. </h3>
-</br>
 Podemos entender la programación Orientada a objetos (POO) como una forma especial de programar, más cercana a como expresaríamos las cosas en la vida real que otros tipos de programación, que permite diseñar mejor las aplicaciones, llegando a mayores cotas de complejidad, sin que el código se vuelva inmanejable.
 Al programar orientado a objetos tenemos que aprender a pensar cómo resolver los problemas de una manera distinta a como se realizaba anteriormente, en la programación estructurada. Ahora tendremos que escribir nuestros programas en términos de clases, objetos, propiedades, métodos y otras cosas que veremos rápidamente para aclarar conceptos y dar una pequeña base que permita soltarnos un poco con los conceptos de este tipo de programación.
 </br>
 <h3> Servidor Web (APACHE). </h3>
-</br>
 La funcionalidad principal de este servicio web es servir a los usuarios todos los ficheros necesarios para visualizar la web. Las solicitudes de los usuarios se hacen normalmente mediante un navegador (Chrome, Firefox, Safari, etc.).
 Apache tiene una estructura basada en módulos, que permite activar y desactivar funcionalidades adicionales, por ejemplo, módulos de seguridad como mod_security, módulos de caché como Varnish, o de personalización de cabeceras como mod_headers. También permite ajustar los parámetros de PHP de tu hosting de forma personalizada mediante el fichero .htaccess.
 </br>
 <h3> Aplicaciones web. </h3>
-</br>
 Una aplicación web es un software que se ejecuta en el navegador web. Las empresas tienen que intercambiar información y proporcionar servicios de forma remota. Utilizan aplicaciones web para comunicarse con los clientes cuando lo necesiten y de una forma segura.
 Las aplicaciones web tienen muchos beneficios, y casi todas las empresas grandes las utiliza como parte de sus ofertas para usuarios. A continuación se muestran alguno de los beneficios comunes asociados a las aplicaciones web.
 </br>
 <h3> Diseño de interfaces gráficas. </h3>
-</br>
 En el entorno de interacción persona-ordenador, la interfaz (o interfaz de usuario) es lo que permite que la interacción entre persona y ordenador ocurra. Es decir, la interfaz permite:
 
 1. Que la persona pueda controlar efectivamente las acciones de la máquina.
 1. Que la persona reciba respuestas de la máquina que le permitan saber si la interacción es correcta y cómo seguir actuando.
 </br>
 <h3> Manejo de archivos. </h3>
-</br>
 A continuación, veamos qué estructura debería tener tu sitio de prueba. Las cosas más comunes que tendrás en cualquier proyecto de sitio web que crees son un archivo de índice HTML y directorios para contener imágenes, archivos de estilo y archivos de script. Crea estos ahora:
 
 1. **index.html:** Este archivo generalmente tendrá el contenido de tu página de inicio, es decir, el texto y las imágenes que las personas ven cuando visitan tu sitio por primera vez. Usando tu editor de texto, crea un nuevo archivo llamado index.html y guárdalo dentro de tu directorio pruebasitio.
@@ -65,18 +57,15 @@ A continuación, veamos qué estructura debería tener tu sitio de prueba. Las c
 1. **Directorio scripts:** Este directorio contendrá todo el código JavaScript utilizado para agregar funcionalidad interactiva a tu sitio (por ejemplo, botones que cargan datos cuando se hace clic en ellos). Crea un directorio llamado scripts, dentro de tu directorio pruebasitio.
 </br>
 <h3> Bases de Datos relacionales. </h3>
-</br>
 Una **base de datos relacional** es, en esencia, un conjunto de tablas (o relaciones) formadas por filas (registros) y columnas (campos); así, cada registro (cada fila) tiene una ID única, denominada clave y las columnas de la tabla contienen los atributos de los datos. Cada registro tiene normalmente un valor para cada atributo, lo que simplifica la creación de relaciones entre los puntos de datos.
 </br>
 <h3> Estructura de tablas. </h3>
-</br>
 Una tabla en base de datos es un tipo de modelado de datos donde se guarda una información recogida por un sistema. Es decir, son objetos o estructuras que contienen los datos organizados en filas y columnas. Cada fila representa un registro único, y cada columna un campo dentro del registro. 
 
 + **Campos:** El campo es el nombre de la columna. Es un dato único y se le otorga un único tipo de datos.
 + **Registros:** Los registros son cada una de las tablas. Aquí se almacenan o cargan los datos que guardamos. Algunos de estos datos pueden ser nulos.
 </br>
 <h2>Link de referencia</h2>
-</br>
 
 + [Apache](https://axarnet.es/blog/que-es-apache)
 
@@ -88,4 +77,4 @@ Una tabla en base de datos es un tipo de modelado de datos donde se guarda una i
 
 + [Base de datos relacionales](https://ayudaleyprotecciondatos.es/bases-de-datos/relacional/)
 
-+ [Esctructura de tablas]()
++ [Esctructura de tablas](https://blog.comparasoftware.com/que-es-tabla-en-base-de-datos/)
