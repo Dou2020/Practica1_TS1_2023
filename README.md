@@ -85,6 +85,18 @@ Una tabla en base de datos es un tipo de modelado de datos donde se guarda una i
 
 ## Manual Técnico
 
+### Software
+- **instalar** Apache
+-- ´sudo apt install apache2´
+- **configurar** Apache para que corra en modo estático (no dinámico).
+-- ´sudo a2dismod mpm_event´
+-- ´sudo a2enmod mpm_prefork´
+-- ´sudo systemctl restart apache2´
+- **crear** una carpeta donde alojaremos nuestro sitio web.
+-- ´mkdir /var/www/html´
+- **copiar** los ficheros del proyecto a esta nueva carpeta creada anteriormente.
+
+
 ### Diagrama de Actividades
 Diagramas de actividades, son considerados diagramas de comportamiento porque describen lo que debe suceder en el sistema que se está modelando.
 
@@ -107,6 +119,13 @@ Los diagramas de paquetes son diagramas estructurales que se emplean para mostra
  + Nota
  + Curso 
  ![Diagrama de entidad relacion](./imagenes/Diagrama_ER.png)
+
+ ### Diagrama de Despliegue
+ Los artefactos son:
+ + Vista
+ + Controlador
+ + Modelo
+ ![Diagrama desplegado](./imagenes/Despliegue.jpg)
 
  ## Manual de Usuario
 
