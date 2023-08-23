@@ -78,3 +78,11 @@ Una tabla en base de datos es un tipo de modelado de datos donde se guarda una i
 + [Base de datos relacionales](https://ayudaleyprotecciondatos.es/bases-de-datos/relacional/)
 
 + [Esctructura de tablas](https://blog.comparasoftware.com/que-es-tabla-en-base-de-datos/)
+
+<h2>Manual Técnico</h2>
+<h3>Diagrama de Actividades</h3>
+<span>![</span><span>Diagrama de Actividades</span><span>]</span><span>(</span><span>https://github.com/Dou2020/Practica1_TS1_2023/blob/main/imagenes/Diagrama_Actividades.png</span><span>)</span>
+<h3>Diagrama de Componente</h3>
+<span>![</span><span>Diagrama de Componente</span><span>]</span><span>(</span><span>https://github.com/Dou2020/Practica1_TS1_2023/blob/main/imagenes/Diagrama_Componente.png</span><span>)</span>
+<h3>Diagrama de Paquete</h3>
+<span>![</span><span>Diagrama de Paquete</span><span>]</span><span>(</span><span>https://github.com/Dou2020/Practica1_TS1_2023/blob/main/imagenes/Diagrama_Paquete.png</span><span>)</span>
